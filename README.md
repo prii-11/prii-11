@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Priyanshi Rawat, a 2nd-year B.Tech CSE student at Graphic Era Hill University. I have a strong passion for problem-solving in Data Structures and Algorithms (DSA) and love working on innovative tech projects. With a keen interest in web development and speech processing, I constantly explore new technologies to enhance my skills and build impactful solutions.
+I am Priyanshi Rawat, a 3rd-year B.Tech CSE student at Graphic Era Hill University. I have a strong passion for problem-solving in Data Structures and Algorithms (DSA) and love working on innovative tech projects. With a keen interest in web development and speech processing, I constantly explore new technologies to enhance my skills and build impactful solutions.
 
 
 ## 🌐 Socials:
