@@ -27,7 +27,7 @@ I'm always eager to learn emerging technologies, collaborate on innovative proje
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=prii-11&theme=tokyonight&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prii-11&layout=compact&theme=tokyonight&hide_border=true)
 
 ### ✍️ Random Dev Quote
