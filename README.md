@@ -9,10 +9,19 @@ Hi, I'm **Priyanshi Rawat**, a fourth-year B.Tech Computer Science student inter
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshi-rawat-06216827b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshipri1105@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyaanshiiiiiii.__/)
-
+<p align="left">
+  <a href="https://linkedin.com/in/priyanshi-rawat-06216827b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:priyanshipri1105@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/priyaanshiiiiiii.__/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"/>
+  </a>
+</p>
 ## 💻 Tech Stack
 
 **Languages**
