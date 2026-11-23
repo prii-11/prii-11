@@ -2,11 +2,10 @@
 
 Hi, I'm **Priyanshi Rawat**, a fourth-year B.Tech Computer Science student with an interest in **Full-Stack Development, Software Engineering, and AI-driven applications**.
 
-- 💻 Interested in **Full-Stack Development, System Design, and Software Architecture**.
-- ⚛️ Working with **React.js, TypeScript, JavaScript, Node.js, and Express.js**.
-- ⚙️ Experienced in building REST APIs, backend services, authentication systems, and database-driven applications.
-- 🤖 Interested in **Generative AI, LLM Integration, Machine Learning, and Computer Vision**.
-- 🧠 Actively practicing **Data Structures & Algorithms** and strengthening problem-solving skills.
+- Interested in **Full-Stack Development, System Design, and Software Architecture**.
+- Working with **React.js, TypeScript, JavaScript, Node.js, and Express.js**.
+- Experienced in building REST APIs, backend services, authentication systems, and database-driven applications.
+- Interested in **Generative AI, LLM Integration, Machine Learning, and Computer Vision**.
 
 ## 🌐 Connect with Me
 
