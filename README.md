@@ -3,15 +3,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:21151B,50:542C3B,100:21151B&text=PRIYANSHI%20RAWAT&fontColor=F1E8EA&fontSize=44&fontAlignY=42&desc=FULL-STACK%20DEVELOPMENT%20%7C%20AI%20%7C%20SYSTEMS&descColor=C69AA8&descSize=13&descAlignY=68" width="100%"/>
 
-<p>
-  <a href="https://linkedin.com/in/priyanshi-rawat-06216827b">
-    <img src="https://img.shields.io/badge/LinkedIn-542C3B?style=flat&logo=linkedin&logoColor=EADFE3" alt="LinkedIn"/>
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshi-rawat-06216827b">
+  <img src="https://img.icons8.com/ios-filled/50/9B4058/linkedin.png"
+       width="30"
+       alt="LinkedIn"/>
+</a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:priyanshipri1105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-542C3B?style=flat&logo=gmail&logoColor=EADFE3" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/9B4058" width="30" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/priyaanshiiiiiii.__/">
-    <img src="https://img.shields.io/badge/Instagram-542C3B?style=flat&logo=instagram&logoColor=EADFE3" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/9B4058" width="30" alt="Instagram"/>
   </a>
 </p>
 
@@ -21,12 +25,13 @@
 
 ## About Me
 
-Computer Science student interested in building scalable applications, thoughtful backend systems, and AI-powered products.
+A Computer Science student passionate about software development, problem solving, and building intelligent applications.
 
-- **Development:** React.js, TypeScript, JavaScript, Node.js & Express.js
-- **Engineering:** REST APIs, Authentication, Databases & System Design
-- **AI:** LLM Integration, Machine Learning & Computer Vision
-- **Focus:** Building reliable software with clean architecture and a quality-first approach.
+- Interested in **Full-Stack Development, System Design, and Software Architecture**.
+- Enjoy building end-to-end applications, working across **frontend experiences, backend systems, and database-driven solutions**.
+- Working with **React.js, TypeScript, JavaScript, Node.js, and Express.js** to turn ideas into functional applications.
+- Exploring **Generative AI, LLM Integration, Machine Learning, and Computer Vision**.
+- Curious about the engineering behind software how systems work under the hood and how to make applications more reliable, efficient, and scalable.
 
 ## Tech Stack
 
@@ -79,7 +84,7 @@ Computer Science student interested in building scalable applications, thoughtfu
 <div align="center">
 
 <!-- Total contribution statistics -->
-<img src="https://streak-stats.demolab.com?user=prii-11&hide_border=true&background=21151B&ring=A45D73&fire=C47A8D&currStreakNum=EADFE3&sideNums=EADFE3&currStreakLabel=A45D73&sideLabels=B99AA5&dates=8D7A82&hide_current_streak=true&hide_longest_streak=true" width="70%" alt="GitHub Contribution Statistics"/>
+<img src="https://streak-stats.demolab.com?user=prii-11&hide_border=true&background=00000000&ring=A45D73&fire=C47A8D&currStreakNum=C47A8D&sideNums=C47A8D&currStreakLabel=C47A8D&sideLabels=C47A8D&dates=9B8990&hide_current_streak=true&hide_longest_streak=true" width="70%" alt="GitHub Contribution Statistics"/>
 
 <br/><br/>
 
