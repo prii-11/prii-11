@@ -1,82 +1,115 @@
-# 💫 About Me
 
-Hi, I'm **Priyanshi Rawat**, a fourth-year B.Tech Computer Science student interested in **Full-Stack Development, Software Engineering, System Design, and AI-driven applications**.
+<div align="center">
 
-- Interested in **Full-Stack Development, System Design, and Software Architecture**.
-- Working with **React.js, TypeScript, JavaScript, Node.js, and Express.js**.
-- Experienced in building REST APIs, backend services, authentication systems, and database-driven applications.
-- Interested in **Generative AI, LLM Integration, Machine Learning, and Computer Vision**.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:21151B,50:542C3B,100:21151B&text=PRIYANSHI%20RAWAT&fontColor=F1E8EA&fontSize=44&fontAlignY=42&desc=FULL-STACK%20DEVELOPMENT%20%7C%20AI%20%7C%20SYSTEMS&descColor=C69AA8&descSize=13&descAlignY=68" width="100%"/>
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/priyanshi-rawat-06216827b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+<p>
+  <a href="https://linkedin.com/in/priyanshi-rawat-06216827b">
+    <img src="https://img.shields.io/badge/LinkedIn-542C3B?style=flat&logo=linkedin&logoColor=EADFE3" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:priyanshipri1105@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-542C3B?style=flat&logo=gmail&logoColor=EADFE3" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/priyaanshiiiiiii.__/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"/>
+  <a href="https://www.instagram.com/priyaanshiiiiiii.__/">
+    <img src="https://img.shields.io/badge/Instagram-542C3B?style=flat&logo=instagram&logoColor=EADFE3" alt="Instagram"/>
   </a>
 </p>
-## 💻 Tech Stack
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / Machine Learning**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prii-11&layout=compact&theme=tokyonight&hide_border=true)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Pri-11&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Computer Science student interested in building scalable applications, thoughtful backend systems, and AI-powered products.
+
+- **Development:** React.js, TypeScript, JavaScript, Node.js & Express.js
+- **Engineering:** REST APIs, Authentication, Databases & System Design
+- **AI:** LLM Integration, Machine Learning & Computer Vision
+- **Focus:** Building reliable software with clean architecture and a quality-first approach.
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-40343A?style=flat&logo=cplusplus&logoColor=EADFE3)
+![Python](https://img.shields.io/badge/Python-40343A?style=flat&logo=python&logoColor=EADFE3)
+![JavaScript](https://img.shields.io/badge/JavaScript-40343A?style=flat&logo=javascript&logoColor=EADFE3)
+![TypeScript](https://img.shields.io/badge/TypeScript-40343A?style=flat&logo=typescript&logoColor=EADFE3)
+![SQL](https://img.shields.io/badge/SQL-40343A?style=flat&logo=databricks&logoColor=EADFE3)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-40343A?style=flat&logo=react&logoColor=EADFE3)
+![HTML5](https://img.shields.io/badge/HTML5-40343A?style=flat&logo=html5&logoColor=EADFE3)
+![CSS3](https://img.shields.io/badge/CSS3-40343A?style=flat&logo=css3&logoColor=EADFE3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-40343A?style=flat&logo=tailwindcss&logoColor=EADFE3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-40343A?style=flat&logo=bootstrap&logoColor=EADFE3)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-40343A?style=flat&logo=nodedotjs&logoColor=EADFE3)
+![Express.js](https://img.shields.io/badge/Express.js-40343A?style=flat&logo=express&logoColor=EADFE3)
+![Flask](https://img.shields.io/badge/Flask-40343A?style=flat&logo=flask&logoColor=EADFE3)
+![MongoDB](https://img.shields.io/badge/MongoDB-40343A?style=flat&logo=mongodb&logoColor=EADFE3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40343A?style=flat&logo=postgresql&logoColor=EADFE3)
+![MySQL](https://img.shields.io/badge/MySQL-40343A?style=flat&logo=mysql&logoColor=EADFE3)
+
+**AI / Machine Learning**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-40343A?style=flat&logo=opencv&logoColor=EADFE3)
+![Streamlit](https://img.shields.io/badge/Streamlit-40343A?style=flat&logo=streamlit&logoColor=EADFE3)
+![NumPy](https://img.shields.io/badge/NumPy-40343A?style=flat&logo=numpy&logoColor=EADFE3)
+![Pandas](https://img.shields.io/badge/Pandas-40343A?style=flat&logo=pandas&logoColor=EADFE3)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-40343A?style=flat&logo=matplotlib&logoColor=EADFE3)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-40343A?style=flat&logo=git&logoColor=EADFE3)
+![GitHub](https://img.shields.io/badge/GitHub-40343A?style=flat&logo=github&logoColor=EADFE3)
+![AWS](https://img.shields.io/badge/AWS-40343A?style=flat&logo=amazonwebservices&logoColor=EADFE3)
+![VS Code](https://img.shields.io/badge/VS_Code-40343A?style=flat&logo=visualstudiocode&logoColor=EADFE3)
+![Jupyter](https://img.shields.io/badge/Jupyter-40343A?style=flat&logo=jupyter&logoColor=EADFE3)
+
+---
+
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- Total contribution statistics -->
+<img src="https://streak-stats.demolab.com?user=prii-11&hide_border=true&background=21151B&ring=A45D73&fire=C47A8D&currStreakNum=EADFE3&sideNums=EADFE3&currStreakLabel=A45D73&sideLabels=B99AA5&dates=8D7A82&hide_current_streak=true&hide_longest_streak=true" width="70%" alt="GitHub Contribution Statistics"/>
+
+<br/><br/>
+
+<!-- Animated contribution snake -->
+<img src="https://raw.githubusercontent.com/prii-11/prii-11/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/><br/>
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prii-11&layout=compact&hide_border=true&bg_color=21151B&title_color=C47A8D&text_color=EADFE3" width="45%" alt="Top Languages"/>
+
+</div>
+
+
+---
+
+## A Thought to Code By
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Random Developer Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Pri-11&icon=0&color=9B4058" alt="Profile Views"/>
+
+<sub>Designed with intention. Built with curiosity.</sub>
+
+</div>
